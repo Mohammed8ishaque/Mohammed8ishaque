@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohammed8ishaque
+- 👋 Hi, I’m Mohammed Ishaque Inamdar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C.S.E.*(A.I.andM.L.)
 - 💞️ I’m looking to collaborate on some exciting Artificial Intelligence, Machine Learning, Data Science & Software projects.
