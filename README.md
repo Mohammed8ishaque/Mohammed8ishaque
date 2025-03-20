@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Ishaque Inamdar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C.S.E.*(A.I.andM.L.)
+- 🌱 I’m a graduate from B.E. in C.S.E.*(A.I.andM.L.)
 - 💞️ I’m looking to collaborate on some exciting Artificial Intelligence, Machine Learning, Data Science & Software projects.
 - 📫 How to reach me 
 Email: inamdarishaque8@gmail.com, mishaqueinamdar82@gmail.com
